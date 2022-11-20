@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+
+.info-usuario {
+    text-align: justify;
+    margin: 32px 80px 20px 25px;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+hr {
+    border-width: 15px;
+    color: #9e1e1e;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: rgb(255, 202, 255);
+}
+
+.cuerpo {
+    background-color: #ffc2c2;
+}
+
+.container {
+    background-color: white;
+}
